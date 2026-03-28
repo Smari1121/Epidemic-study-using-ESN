@@ -11,4 +11,5 @@ What I found particularly interesting was how even stochastic and noisy processe
 
 Repository details:
 ESN.ipynb : has the actual implementation code
+
 Indonesia_pred, Norway_pred, Zimbabwe_pred : output images from ESN forecasting (you can get it by running the code too)
